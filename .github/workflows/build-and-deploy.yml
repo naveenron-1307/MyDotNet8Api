@@ -8,7 +8,7 @@ on:
        - main
 
 env:
-  AZURE_WEBAPP_NAME: weather-demo-api
+  AZURE_WEBAPP_NAME: web-api-demo-poc
   AZURE_WEBAPP_PACKAGE_PATH: "./publish"
   DOTNET_VERSION: "8.x"
   SOLUTION_PATH: "./MyDotNet8Api.sln"
